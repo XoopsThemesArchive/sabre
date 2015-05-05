@@ -1,0 +1,260 @@
+body {
+background-color: #e9e2cf;/*themecolour3;*/
+color: #000000;/*themecolour3%0;*/
+padding-left: 15px; padding-right: 15px;
+}
+table {
+font: 9pt "trebuchet ms", arial, sans-serif;
+}
+p {
+margin-top: 0px;
+margin-bottom: 0px;
+margin-right: 0px;
+}
+blockquote {
+margin-top: 0px;
+margin-bottom: 0px;
+color: #000000;/*themecolour3%0;*/
+margin-right: 0px;
+}
+ol {
+margin-top: 0px;
+margin-bottom: 0px;
+color: #000000;/*themecolour3%0;*/
+}
+.rightcoltext ul {
+margin-top: 0px;
+margin-bottom: 0px;
+color: #000000;/*themecolour3%0;*/
+margin-left: 20px;
+list-style-image: url(Sabre_page1_files/Sabre_page1_bullet.gif);
+}
+.centercoltext ul {
+margin-top: 0px;
+margin-bottom: 0px;
+margin-left: 20px;
+color: #000000;/*themecolour3%0;*/
+list-style-image: url(Sabre_page1_files/Sabre_page1_bullet.gif);
+}
+h1 {
+font-weight: bold;
+color: #000000;/*themecolour3%0;*/
+font-size: 16px;
+margin-top: 0px;
+margin-bottom: 3px;
+white-space: nowrap;
+}
+h2 {
+font-size: 15px;
+color: #2351AD;/*themecolour2;*/
+margin-top: 0px;
+margin-bottom: 3px;
+}
+h3 {
+font-size: 13px;
+color: #ffffff;
+margin-top: 0px;
+margin-bottom: 3px;
+padding-left: 5px;
+}
+.topstrip {
+background-image: url(Sabre_page1_files/Wings_topstrip.gif);
+background-repeat: repeat-x;
+}
+.centercoltext {
+color: #000000;/*themecolour3%0;*/
+padding-left: 20px;
+padding-right: 20px;
+background-image: url(Sabre_page1_files/Sabre_page1_corner.gif);
+background-repeat: no-repeat;
+background-position: right top;
+}
+.rightcoltext {
+padding: 10px;
+color: #333333;
+background-color: #e9c391;/*themecolour1$ 41%,47%;*/
+padding-left: 10px;
+padding-right: 10px;
+border-right-width: 1px;
+border-right-style: solid;
+border-right-color: #000000;
+}
+.leftcoltext a:link {
+color: #666666;
+}
+.leftcoltext a:visited {
+color: #666666;
+}
+.leftcoltext a:link:hover {
+color: #2351ad;/*themecolour2;*/
+}
+.centercoltext a:link {
+color: #000000;/*themecolour3%0;*/
+}
+.centercoltext a:visited {
+color: #000000;
+}
+.centercoltext a:link:hover {
+color: #2351ad;/*themecolour2;*/
+}
+.leftpanel a:link {
+color: #000000;
+}
+.leftpanel a:visited {
+color: #000000;
+}
+.leftpanel a:link:hover {
+color: #2351ad;/*themecolour2;*/
+}
+.rightcoltext a:link {
+color: #000000;/*themecolour3%0;*/
+}
+.rightcoltext a:visited {
+color: #000000;/*themecolour3%0;*/
+} 
+.rightcoltext a:link:hover {
+color: #2351ad;/*themecolour2;*/
+}
+.topstrip {
+background-image: url(Sabre_page1_files/Sabre_page1_topstrip.gif);
+background-repeat: repeat-x;
+background-repeat: repeat-x;
+}
+.hnavbg {
+background-image: url(Sabre_page1_files/Sabre_page1_hnav_bg.gif);
+background-repeat: repeat-x;
+background-repeat: repeat-x;
+}
+.leftcolbg {
+background-image: url(Sabre_page1_files/Sabre_page1_leftcolumn_bg.gif);
+background-repeat: repeat-y;
+background-position: right;
+background-repeat: repeat-y;
+background-position: right;
+}
+.panelbg {
+background-image: url(Sabre_page1_files/Sabre_page1_panel_bg.gif);
+background-repeat: repeat-x;
+}
+.leftcoltext {
+font-size: 8pt;
+color: #333333;
+}
+.leftpanel {
+background-color: #D69A4D;/*themecolour1$ 41%,47%;*/
+color: Black;
+padding: 10px;
+border-bottom-width: 0px;
+border-bottom-style: solid;
+border-bottom-color: #000000;
+border-right-width: 1px;
+border-right-style: solid;
+border-right-color: #000000;
+}
+.paraheadbg {
+background-image: url(Sabre_page1_files/Sabre_page1_parahead_bg.gif);
+background-repeat: repeat-x;
+}
+.paraheadbg2 {
+background-image: url(Sabre_page1_files/Sabre_page1_parahead_bottom.gif);
+background-repeat: repeat-x;
+}
+.paraborderleft {
+border-left-width: 1px;
+border-left-style: solid;
+border-left-color: #d69a4d;/*themecolour1;*/
+}
+.paraborderright {
+border-right-width: 1px;
+border-right-style: solid;
+border-right-color: #000000;/*themecolour3%0;*/
+}
+.footer {
+font-weight: bold;
+color: #000000;/*themecolour3%0;*/
+}
+.topbar {
+background-color: #d69a4d;/*themecolour1;*/
+}
+table {width: 100%; margin: 5; padding: 5; font-size: small}
+table td {padding: 0; border-width: 0; vertical-align: top; font-family: Verdana, Arial, Helvetica, sans-serif;}
+a {color: #F4A460; text-decoration: none; font-weight: bold; background-color: transparant;}
+a:hover {color: #4169E1;}
+h1 {}
+h2 {}
+h3 {}
+h4 {}
+h5 {}
+ul { margin: 2px; padding: 2px; list-style: decimal inside; text-align: left;}
+li { margin-left: 2px; list-style: square inside; color: #2F5376}
+input.formButton {}
+.item {border: 0px solid #cccccc;}
+.itemHead {padding: 3px; background-color: #e9c391; color: #FFFFFF;}
+.itemInfo {text-align: right; padding: 3px; background-color: #efefef}
+.itemTitle a {font-size: 130%; font-weight: bold; font-variant: small-caps; color: #ffffff; background-color: transparent;}
+.itemPoster {font-size: 90%; font-style:italic;}
+.itemPostDate {font-size: 90%; font-style:italic;}
+.itemStats {font-size: 90%; font-style:italic;}
+.itemBody {padding-left: 5px;}
+.itemText {margin-top: 5px; margin-bottom: 5px; line-height: 1.5em;}
+.itemText:first-letter {font-size: 133%; font-weight: bold;}
+.itemFoot {text-align: right; padding: 3px; background-color: #efefef}
+.itemAdminLink {font-size: 90%;}
+.itemPermaLink {font-size: 90%;}
+th {background-color: #2351AD; color: #FFFFFF; padding : 2px; vertical-align : middle; font-family: Verdana, Arial, Helvetica, sans-serif;}
+td#headerbanner {width: 100%; background-color: #2F5376; vertical-align: middle; text-align:center;}
+td#headerbar {border-bottom: 1px solid #dddddd; background-image: url(hbar.gif);}
+td#leftcolumn {width: 170px; border-right: 0px solid #cccccc; font-size: 10px;}
+td#leftcolumn th {background-color: #2351AD; color: #FFFFFF; vertical-align: middle;}
+td#leftcolumn div.blockTitle {padding: 3px; color: #2F4F4F; font-weight: bold;}
+td#leftcolumn div.blockContent {padding: 3px; line-height: 120%; line-height: 120%;}
+td#centercolumn {font-size: 12px;}
+td#centercolumn th {background-color: #2351AD; color: #FFFFFF; vertical-align: middle;}
+td#centerCcolumn {padding: 0px 3px 1px 3px;}
+td#centerCcolumn legend.blockTitle {padding: 3px; color: #4682B4; font-weight: bold; margin-top: 0px; margin-right: 0px; margin-left: 0px;}
+td#centerCcolumn div.blockContent {border-left: 0px solid #cccccc; border-right: 0px solid #cccccc; border-bottom: 0px solid #dddddd; padding: 3px; margin-right: 0px; margin-left: 0px; margin-bottom: 2px; line-height: 120%;}
+td#centerLcolumn {width: 50%; padding: 0px 3px 0px 0px;}
+td#centerLcolumn legend.blockTitle {padding: 3px; color: #4682B4; font-weight: bold; margin-top: 0px;}
+td#centerLcolumn div.blockContent {border-left: 0px solid #cccccc; border-right: 0px solid #cccccc; border-bottom: 0px solid #dddddd; padding: 3px; margin-left: 3px; margin-right: 2px; margin-bottom: 2px; line-height: 120%;}
+td#centerRcolumn {width: 50%; padding: 0px 3px 0px 0px;}
+td#centerRcolumn legend.blockTitle {padding: 3px; color: #4682B4; font-weight: bold; margin-top: 0px;}
+td#centerRcolumn div.blockContent {border-left: 0px solid #cccccc; border-right: 0px solid #cccccc; border-bottom: 0px solid #dddddd; padding: 3px; margin-left: 2px; margin-right: 3px; margin-bottom: 2px; line-height: 120%;}
+div#content {text-align: left; padding: 8px;}
+td#rightcolumn {width: 170px; border-left: 0px solid #cccccc; font-size: 10px;}
+td#rightcolumn th {background-color: #2351AD; color: #FFFFFF; vertical-align: middle;}
+td#rightcolumn div.blockTitle {padding: 3px; background-color: #dddddd; color: #639ACE; font-weight: bold;}
+td#rightcolumn div.blockContent {padding: 3px; line-height: 120%;}
+tr#footerbar {text-align:center; background-image: url(hbar.gif);}
+td#mainmenu a {background-color: transparant; display: block; margin: 0; padding: 4px; border-right: 0px solid #666666; border-bottom: 0px solid #666666; border-left: 0px solid silver;}
+td#mainmenu a:hover {background-color: #2351AD; color: black;}
+td#mainmenu a.menuTop {padding-left: 3px; border-top: 0px solid silver; border-right: 0px solid #666666; border-bottom: 0px solid #666666; border-left: 0px solid silver;}
+td#mainmenu a.menuMain {padding-left: 3px; border-right: 0px solid #666666; border-bottom: 0px solid #666666; border-left: 0px solid silver;}
+td#mainmenu a.menuSub {padding-left: 12px; border-right: 0px solid #666666; border-bottom: 0px solid #666666; border-left: 0px solid silver;}
+td#usermenu a {background-color: transparant; display: block; margin: 0; padding: 4px; border-right: 0px solid #666666; border-bottom: 0px solid #666666; border-left: 0px solid silver;}
+td#usermenu a:hover {background-color: #2351AD; color: black;}
+td#usermenu a.menuTop {border-top: 0px solid silver;}
+td#usermenu a.highlight {background-color: #fcc;}
+.outer {border: 1px solid silver;}
+.head {background-color: #2351AD; padding: 5px; font-weight: bold;}
+.even {background-color: #FDF5E6; padding: 5px;}
+.odd {background-color: #FFF8DC; padding: 5px;}
+.foot {background-color: #E6E6FA; padding: 5px; font-weight: bold;}
+tr.even td {background-color: #FDF5E6; padding: 5px;}
+tr.odd td {background-color: #FFF8DC; padding: 5px;}
+div.errorMsg { background-color: #FFCCCC; text-align: center; border-top: 1px solid #DDDDFF; border-left: 1px solid #DDDDFF; border-right: 1px solid #AAAAAA; border-bottom: 1px solid #AAAAAA; font-weight: bold; padding: 10px;}
+div.confirmMsg { background-color: #DDFFDF; color: #136C99; text-align: center; border-top: 1px solid #DDDDFF; border-left: 1px solid #DDDDFF; border-right: 1px solid #AAAAAA; border-bottom: 1px solid #AAAAAA; font-weight: bold; padding: 10px;}
+div.resultMsg { background-color : #CCCCCC; color: #333333; text-align: center; border-top: 1px solid silver; border-left: 1px solid silver; font-weight: bold; border-right: 1px solid #666666; border-bottom: 1px solid #666666; padding: 10px;}
+div.xoopsCode { background: #FFFFFF; border: 1px inset #000080; font-family: "Courier New",Courier,monospace; padding: 0px 6px 6px 6px;}
+div.xoopsQuote { background: #FFFFFF; border: 1px inset #000080; font-family: "Courier New",Courier,monospace; padding: 0px 6px 6px 6px;}
+.comTitle {font-weight: bold; margin-bottom: 2px;}
+.comText {padding: 2px;}
+.comUserStat {font-size: 10px; color: #2F5376; font-weight:bold; border: 1px solid silver; background-color: #ffffff; margin: 2px; padding: 2px;}
+.comUserStatCaption {font-weight: normal;}
+.comUserStatus {margin-left: 2px; margin-top: 10px; color: #2F5376; font-weight:bold; font-size: 10px;}
+.comUserRank {margin: 2px;}
+.comUserRankText {font-size: 10px;font-weight:bold;}
+.comUserRankImg {border: 0;}
+.comUserName {}
+.comUserImg {margin: 2px;}
+.comDate {font-weight: normal; font-style: italic; font-size: smaller}
+.comDateCaption {font-weight: bold; font-style: normal;}
